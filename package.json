@@ -1,0 +1,23 @@
+{
+  "name": "node-prop-router",
+  "version": "1.0.0",
+  "description": "Node native multi page application service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildlove/node-prop-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buildlove/node-prop-router/issues"
+  },
+  "homepage": "https://github.com/buildlove/node-prop-router.git",
+  "author": "liyang<mkdiryang220@gamil.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
