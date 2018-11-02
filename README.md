@@ -6,7 +6,6 @@
 ```
 
 访问 html
-------------
 
 * 使用 localhost:3000/index.html 访问 index.html。
 * 使用 localhost:3000/routes/Route.html 访问 Route.html。
